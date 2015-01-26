@@ -1,0 +1,29 @@
+{
+  "name": "easyajax.js",
+  "version": "0.0.1",
+  "authors": [
+    "chenkuochen.tw@gmail.com"
+  ],
+  "description": "Easyajax.js implements a simple ajax method for Ajax asynchronous call. It's very flexible and easy to use, but easyajax.js is NOT for production use. We use easyajax.js when we are prototyping new projects on hackathon. Enjoy it!",
+  "keywords": [
+    "ajax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/chenkuochen/easyajax.js",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "bd32bb75f806ba6367e96a50f9db4c5ebb88a9b3"
+  },
+  "_source": "git://github.com/chenkuochen/easyajax.js.git",
+  "_target": "*",
+  "_originalSource": "easyajax"
+}

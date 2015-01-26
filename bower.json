@@ -1,0 +1,24 @@
+{
+  "name": "restfactory.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chenkuochen/restfactory.js",
+  "authors": [
+    "chenkuochen <chenkuochen.tw@gmail.com>"
+  ],
+  "main": "restfactory.js",
+  "keywords": [
+    "restful",
+    "ajax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "easyajax": "*"
+  }
+}
